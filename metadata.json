@@ -1,0 +1,8 @@
+{
+  "name": "WeDENTpro",
+  "description": "The premier professional network for dentists to exchange knowledge, consult on urgent cases, buy/sell equipment, and find career opportunities across all dental specialties.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
